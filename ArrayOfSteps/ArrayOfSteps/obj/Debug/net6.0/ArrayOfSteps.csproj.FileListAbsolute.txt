@@ -1,0 +1,15 @@
+C:\Users\alexh\source\repos\ArrayOfSteps\ArrayOfSteps\bin\Debug\net6.0\ArrayOfSteps.exe
+C:\Users\alexh\source\repos\ArrayOfSteps\ArrayOfSteps\bin\Debug\net6.0\ArrayOfSteps.deps.json
+C:\Users\alexh\source\repos\ArrayOfSteps\ArrayOfSteps\bin\Debug\net6.0\ArrayOfSteps.runtimeconfig.json
+C:\Users\alexh\source\repos\ArrayOfSteps\ArrayOfSteps\bin\Debug\net6.0\ArrayOfSteps.dll
+C:\Users\alexh\source\repos\ArrayOfSteps\ArrayOfSteps\bin\Debug\net6.0\ref\ArrayOfSteps.dll
+C:\Users\alexh\source\repos\ArrayOfSteps\ArrayOfSteps\bin\Debug\net6.0\ArrayOfSteps.pdb
+C:\Users\alexh\source\repos\ArrayOfSteps\ArrayOfSteps\obj\Debug\net6.0\ArrayOfSteps.csproj.AssemblyReference.cache
+C:\Users\alexh\source\repos\ArrayOfSteps\ArrayOfSteps\obj\Debug\net6.0\ArrayOfSteps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexh\source\repos\ArrayOfSteps\ArrayOfSteps\obj\Debug\net6.0\ArrayOfSteps.AssemblyInfoInputs.cache
+C:\Users\alexh\source\repos\ArrayOfSteps\ArrayOfSteps\obj\Debug\net6.0\ArrayOfSteps.AssemblyInfo.cs
+C:\Users\alexh\source\repos\ArrayOfSteps\ArrayOfSteps\obj\Debug\net6.0\ArrayOfSteps.csproj.CoreCompileInputs.cache
+C:\Users\alexh\source\repos\ArrayOfSteps\ArrayOfSteps\obj\Debug\net6.0\ArrayOfSteps.dll
+C:\Users\alexh\source\repos\ArrayOfSteps\ArrayOfSteps\obj\Debug\net6.0\ref\ArrayOfSteps.dll
+C:\Users\alexh\source\repos\ArrayOfSteps\ArrayOfSteps\obj\Debug\net6.0\ArrayOfSteps.pdb
+C:\Users\alexh\source\repos\ArrayOfSteps\ArrayOfSteps\obj\Debug\net6.0\ArrayOfSteps.genruntimeconfig.cache
